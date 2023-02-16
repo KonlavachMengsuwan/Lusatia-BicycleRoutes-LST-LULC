@@ -20,7 +20,7 @@ setwd("")
 ## Read Bicycle Routes table
 ```
 bicycle_routes = read.csv("Lusatia_bicycle_routes.csv")
-``
+```
 
 ## Lusatia Bicycle Routes data source:
 ### 1. Lusatia Tourism website
